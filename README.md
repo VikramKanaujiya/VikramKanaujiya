@@ -18,6 +18,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikramKanaujiya&show_icons=true&locale=en" alt="VikramKanaujiya" /></p>
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikramKanaujiya&show_icons=true&locale=en&layout=compact" alt="VikramKanaujiya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikramKanaujiya&show_icons=true&locale=en" alt="VikramKanaujiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VikramKanaujiya&" alt="VikramKanaujiya" /></p>
