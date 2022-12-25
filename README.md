@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @VikramKanaujiya
 - ##📫 Reach me **vikramkanaujiya00@gmail.com**
 - ⚡ Fun fact **Other than development, doing SOCIAL WORKS**
+- work in Hungama Digital Media Entertainment Pvt Ltd.
 <h3 align="left">Connect with me:</h3>
 ## Social Media😍
 <p align="left">
 <a href="https://https://www.linkedin.com/in/vikram-kanaujiya-//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VikramKanaujiya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vikram.kanaujiya.359"//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VikramKanaujiya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_vikram_babu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="VikramKanaujiya" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
