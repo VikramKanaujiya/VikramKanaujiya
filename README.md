@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @VikramKanaujiya <br>
 - ##📫 Reach me **vikramkanaujiya00@gmail.com** <br>
 - ⚡ Fun fact **Other than development, doing SOCIAL WORKS** <br>
-- work in Hungama Digital Media Entertainment Pvt Ltd.
+- ## work in Hungama Digital Media Entertainment Pvt Ltd.
 <h3 align="left">Connect with me:</h3>
 ## Social Media😍
 <p align="left">
