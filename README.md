@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Deep SHIKHA👋</h1>
+<h1 align="center">Hey, I'm VIKRAM👋</h1>
 - 👋 Hi, I’m @VikramKanaujiya
 - ##📫 Reach me **vikramkanaujiya00@gmail.com**
 - ⚡ Fun fact **Other than development, doing SOCIAL WORKS**
