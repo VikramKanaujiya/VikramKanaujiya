@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm VIKRAM👋</h1>
 
 - 👋 Hi, I’m @VikramKanaujiya <br>
-- ##📫 Reach me **vikramkanaujiya00@gmail.com** <br>
+- 📫 Reach me **vikramkanaujiya00@gmail.com** <br>
 - ⚡ Fun fact **Other than development, doing SOCIAL WORKS** <br>
 - ## work in Hungama Digital Media Entertainment Pvt Ltd.
 <h3 align="left">Connect with me:</h3>
