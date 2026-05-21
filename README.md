@@ -1,26 +1,131 @@
-<h1 align="center">Hey, I'm VIKRAM👋</h1>
+<h1 align="center">Hi 👋, I'm Vikram Kanaujiya</h1>
 
-- 👋 Hi, I’m @VikramKanaujiya <br>
-- 📫 Reach me **vikramkanaujiya00@gmail.com** <br>
-- ⚡ Fun fact **Other than development, doing SOCIAL WORKS** <br>
-- ## work in Hungama Digital Media Entertainment Pvt Ltd.
-<h3 align="left">Connect with me:</h3>
-## Social Media😍
-<p align="left">
-<a href="https://https://www.linkedin.com/in/vikram-kanaujiya-//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VikramKanaujiya" height="30" width="40" /></a>
-<a href="https://www.facebook.com/vikram.kanaujiya.359"//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="VikramKanaujiya" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_vikram_babu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="VikramKanaujiya" height="30" width="40" /></a>
+<h3 align="center">
+Frontend Developer | React Native Developer | Building scalable mobile experiences 🚀
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&center=true&vCenter=true&width=600&lines=React+Native+Developer;Frontend+Developer;3%2B+Years+of+Experience;Building+Scalable+Apps;Always+Learning+Something+New"/>
 </p>
-<h3 align="left">Languages and Tools:</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.nodejs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikramKanaujiya&show_icons=true&locale=en" alt="VikramKanaujiya" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VikramKanaujiya&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
+---
 
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikramKanaujiya&show_icons=true&locale=en&layout=compact" alt="VikramKanaujiya" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikramKanaujiya&show_icons=true&locale=en" alt="VikramKanaujiya" /></p>
+- 💼 Frontend Developer with **3+ years of experience**
+- 📱 Specialized in **React Native & React.js**
+- ⚡ Building scalable web & mobile applications
+- 🔥 Strong focus on performance optimization and reusable architecture
+- 🌱 Currently learning:
+  - Advanced React Native Architecture
+  - System Design
+  - Node.js & Scalable Backend Development
+  - Performance Optimization
+- 🤝 Love collaborating and solving real-world problems
+- ⚡ Fun fact: Other than development, I enjoy **social work**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VikramKanaujiya&" alt="VikramKanaujiya" /></p>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vikramkanaujiya/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/_vikram_babu_" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://x.com/vikram_babu_" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+## 📌 Featured Project
+
+### 🕉 Dharma Seekho App *(Under Development)*
+
+A modern educational platform focused on spiritual learning and content delivery.
+
+**Tech Stack**
+- React Native
+- Node.js
+- Firebase
+- Zustand
+- React Query
+
+**Features**
+- Authentication
+- Audio support
+- Notifications
+- Dynamic content
+- Scalable architecture
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VikramKanaujiya&theme=algolia&row=1"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VikramKanaujiya&show_icons=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VikramKanaujiya"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramKanaujiya&layout=compact"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/VikramKanaujiya/VikramKanaujiya/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+### ✨ “Code. Learn. Build. Repeat.”
