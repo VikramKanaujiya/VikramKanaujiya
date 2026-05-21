@@ -34,6 +34,10 @@ Frontend Developer | React Native Developer | Building scalable mobile experienc
 
 <p align="left">
 
+<a href="mailto:vikramkanaujiya00@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 <a href="https://www.linkedin.com/in/vikramkanaujiya/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -46,6 +50,10 @@ Frontend Developer | React Native Developer | Building scalable mobile experienc
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
+</p>
+
+<p>
+📧 <b>Email:</b> vikramkanaujiya00@gmail.com
 </p>
 
 ---
