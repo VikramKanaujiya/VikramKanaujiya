@@ -94,14 +94,6 @@ A modern educational platform focused on spiritual learning and content delivery
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VikramKanaujiya&theme=algolia&row=1"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
