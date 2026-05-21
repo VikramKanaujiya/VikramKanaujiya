@@ -26,7 +26,7 @@ Frontend Developer | React Native Developer | Building scalable mobile experienc
   - Node.js & Scalable Backend Development
   - Performance Optimization
 - 🤝 Love collaborating and solving real-world problems
-- ⚡ Fun fact: Other than development, I enjoy **social work**
+- ⚡ Outside of coding, I enjoy **exploring geopolitics and global affairs**
 
 ---
 
