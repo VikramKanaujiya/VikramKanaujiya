@@ -97,17 +97,13 @@ A modern educational platform focused on spiritual learning and content delivery
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VikramKanaujiya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VikramKanaujiya&show_icons=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VikramKanaujiya"/>
-
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=VikramKanaujiya&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramKanaujiya&layout=compact"/>
-
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VikramKanaujiya&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
